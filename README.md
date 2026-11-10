@@ -1,8 +1,12 @@
 # IC-2K23-29-DAA-Divya_Sharma
+
 Name: Divya Sharma  
 Roll No: IC-2K23-29  
 DAVV IIPS, Indore
+
 ## Units
+
+- Unit 1: Introduction to Algorithms (Searching and Sorting)
 - Unit 2: Divide and Conquer (Merge Sort, Quick Sort, Heap Sort)
 - Unit 3: Greedy Method (Fractional Knapsack)
 - Unit 4: Dynamic Programming (Memoized Fibonacci)
